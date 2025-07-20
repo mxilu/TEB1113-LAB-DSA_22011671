@@ -2,8 +2,8 @@
 
 ### Lab Tasks
 
-| Date       | Lab | Tasks                                                                 |
-|------------|-----|------------------------------------------------------------------------|
+| Date       |  Lab | Tasks                                                                 |
+|------------|------|------------------------------------------------------------------------|
 | 28/5/2025  |   1  | - [Lab 1](LAB%201/Students'Info.cpp)                                               |
 | 04/6/2025  |   2  | - [Lab 2 Easy](LAB%202/Easy.cpp)<br>  -[Lab 2 Medium](LAB%202/Medium.cpp)<br>  -[Lab 2 Hard](LAB%202/Hard.cpp) |
 | 11/6/2025  |   3  | - [Singly Linked List](LAB%203/SinglyLinkedList(Add,Display,Delete).cpp.cpp)<br>  -[Doubly Linked List](labs/DoublyLinkedList(Add,Display,Delete).cpp) |
